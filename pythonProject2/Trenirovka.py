@@ -17,3 +17,4 @@ temp_out += letter * int(count)
 with open('text.txt', 'w') as file2:
     file2.write(temp_out)
 
+# Comments
